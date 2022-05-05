@@ -1,2 +1,2 @@
 # enhpt
-raw data of the articol entitled Engineerin Nanoscale Hypersonic Phonon Transport
+raw data of the article entitled Engineerin Nanoscale Hypersonic Phonon Transport
